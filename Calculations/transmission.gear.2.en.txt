@@ -1,0 +1,135 @@
+RESULTS OF DESIGN CALCULATIONS FOR A GEAR DRIVE
+INPUT DATA:
+
+Power P = 6.1 kW
+Transmission ratio u = 3
+Pinion rotational speed n = 166.35 rpm
+
+ASSUMED PARAMETERS:
+
+Coefficient: Ka = 1.2 PSId = 0.9902
+
+Pinion material: 40H
+(SIGH = 700 SIGF = 275
+qh = 10 qf = 9 NHL = 50000000 NFL = 3000000)
+
+Gear material: 40H
+(SIGH = 700 SIGF = 275
+qh = 10 qf = 9 NHL = 50000000 NFL = 3000000)
+
+Tooth flank hardness:
+
+Pinion: 250
+Gear: 250
+
+Tooth core hardness:
+
+Pinion: 250
+Gear: t
+
+Gear manufacturing method: GRINDING AND TURNING
+
+Gear accuracy grade: Kdw = 7
+
+Number of stress cycles: Nk = 4000000000000
+
+Surface roughness parameters:
+Rz1 = 10 Rz2 = 10
+
+CALCULATION RESULTS:
+
+(Helical gears, unhardened teeth, standard basic tooth profile: Ha = 3.5 C1 = 0.875 ROf = 1.33)
+
+Transmission ratio u = 3
+
+Number of pinion teeth z1 = 28
+Number of gear teeth z2 = 84
+
+Helix angle BETA = 8°
+
+Gear width b = 98 mm
+
+Coefficient PSId = 0.9902
+
+Normal module Mn = 3.5
+
+Normal pressure angle ALFAn = 20°
+
+Center distance Aw = 200.0004 mm
+
+Sum of profile shift coefficients x1 + x2 = 0.6147
+
+Pinion profile shift coefficient x1 = 0.45
+Gear profile shift coefficient x2 = 0.1647
+
+Tooth tip shortening coefficient k = 2.78E-002
+
+Transverse pressure angle at pitch cylinder ALFAt = 20.181°
+
+Transverse pressure angle at operating pitch cylinder ALFAtw = 21.740°
+
+PITCHES:
+Transverse pitch Pt = 11.1036 mm
+Base pitch Pb = 10.4220 mm
+
+Profile overlap ratio EB = 1.2404
+Transverse contact ratio EA = 1.5593
+
+OPERATING DIAMETER:
+Pinion dw1 = 100.0002 mm
+Gear dw2 = 300.0006 mm
+PITCH DIAMETER:
+Pinion d1 = 98.9631 mm
+Gear d2 = 296.8893 mm
+ADDENDUM CIRCLE DIAMETER:
+Pinion da1 = 108.9586 mm
+Gear da2 = 304.8877 mm
+ROOT DIAMETER:
+Pinion df1 = 93.3631 mm
+Gear df2 = 289.2922 mm
+TOOTH THICKNESS AT ADDENDUM CIRCLE:
+Pinion Sa1 = 2.1541 mm
+Gear Sa2 = 2.8118 mm
+RELATIVE TOOTH THICKNESS:
+Pinion Sa1/Mn = 0.6155
+Gear Sa2/Mn = 0.8034
+ACTUAL TIP CLEARANCE:
+Between da1 and df2 = 0.875 mm
+Between da2 and df1 = 0.875 mm
+VIRTUAL NUMBER OF TEETH:
+Pinion Zn1 = 28.7672
+Gear Zn2 = 86.3016
+NUMBER OF TEETH Zw INCLUDED IN THE MEASUREMENT:
+Pinion Zw1 = 4.0000
+Gear Zw2 = 10.0000
+MEASUREMENT VALUE Wn FOR:
+Pinion Wn1 = 38.6524 mm
+Gear Wn2 = 102.7869 mm
+
+Circumferential speed at the gear mesh V1 = 0.861 m/s
+
+COEFFICIENT VALUES:
+
+Rz100 = 7.93 Zl × Zr × Zv = 0.9
+
+Ka = 1.200 Kv = 1.065
+Kha = 1.100 Khb = 1.150
+Kh = 1.617 Kf = 1.601
+Kfa = 1.100 Kfb = 1.139
+Yfas1 = 3.932 Yfas2 = 3.926
+
+SAFETY FACTORS AGAINST CONTACT STRESS FOR:
+Pinion Sh1 = 1.384
+Gear Sh2 = 1.384
+SAFETY FACTORS AGAINST TOOTH BREAKAGE FOR:
+Pinion Sf1 = 3.764
+Gear Sf2 = 3.756
+
+Volume of gears Vk = 0.0076969 m³
+
+NOMINAL FORCES AT THE GEAR MESH:
+Tangential force Ft = 7076.819 N
+Axial force Fa = 994.582 N
+Radial force Fr = 2821.932 N
+
+Calculations performed by: Kacper Danielewski

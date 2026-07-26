@@ -1,0 +1,55 @@
+RESULTS OF DESIGN CALCULATIONS FOR A V-BELT DRIVE
+
+Input Data:
+
+Power P = 6.100 kW
+Rotational speed N1 = 865 rpm
+Drive ratio U = 1.300
+
+Calculation Results:
+
+Drive ratio U = 1.280
+Pitch diameter of driving pulley D1 = 125 mm
+Pitch diameter of driven pulley D2 = 160 mm
+Required center distance A = 300.000 mm
+Actual center distance Aw = 305.661 mm
+Angle GAMMA = 6.564°
+Angle ALPHA1 = 173.436°
+Belt cross-section: B
+
+Belt length:
+
+Calculated L1 = 1048.698 mm
+Standard L = 1060.000 mm
+
+Number of belts Z = 6
+Belt speed v = 5.661 m/s
+
+Ratio of calculated power to rated power Pz/P = 1.1768
+
+Drive efficiency ETA = 98.469%
+
+Belt tensions:
+
+Tight-side tension Fa = 1087.88 N
+Slack-side tension Fb = 10.41 N
+
+Force exerted by the belt on the pulley shaft Fn = 1098.23 N
+
+Angle of application of force Fn: Theta = 3.220°
+
+Effective force Fu = 1077.47 N
+
+Values of the Applied Coefficients:
+
+K1 = 1.100
+Kl = 0.850
+Kfi = 0.9881
+Kt = 1.200
+MI = 0.500
+MIp = 1.536
+E = 100
+E1 = 50
+K4 = 0.400
+
+Calculations performed by: Kacper Danielewski

@@ -1,0 +1,105 @@
+            WYNIKI OBLICZEN KONSTRUKCYJNYCH PRZEKLADNI ZEBATEJ
+
+
+     DANE:
+     Moc P=....................... 6.1 kW
+     Przelozenie u=............... 4 
+     Predkosc obrotowa zebnika n= 665 obr/min
+
+     WIELKOSCI ZALOZONE:
+     Wspol.: Ka= 1.2        PSId= 1.0873 
+     Materal zebnika- 40H  (SIGH= 700   SIGF= 275 
+                      qh= 10   qf= 9   NHL= 50000000   NFL= 3000000 )
+     Materal kola- 40H  (SIGH= 700   SIGF= 275 
+                   qh= 10   qf= 9   NHL= 50000000   NFL= 3000000 )
+     Twardosc powierzchni zebow:
+                               -zebnika...300
+                               -kola......250
+     Twardosc rdzenia zebow:
+                            -zebnika...250
+                            -kola......t
+     Metoda wykonania kol: SZLIFOWANIE
+     Klasa dokladnosci wykonania zazebienia Kdw= 7 
+     Liczba cykli naprezen Nk= 4000000000000 
+     Parametry chropowatosci: Rz1= 2.5    Rz2= 2.5 
+
+     WYNIKI OBLICZEN:
+     (Kola o zebach skosnych,
+     zeby utwardzane,
+     zarys odniesienia zeba nieznormal.:  Ha= 2.5   C1= .625   ROf= .95 )
+     Przelozenie u=.......... 3.958 
+     Liczba zebow zebnika z1= 24 
+     Liczba zebow kola z2=... 95 
+     Kat pochylenia zeba BETA= 19  stop.
+     Szerokosc kola b=....... 69 mm
+     Wspolczynnik PSId=...... 1.0873 
+     Modul normalny Mn=...... 2.5 
+     Kat przyporu w przek. normalnym ALFAn= 20  stop.
+     Odleglosc osi Aw=.............. 160.0002  mm
+     Suma wspol. korekcji x1+x2= 1.13 
+     Wspol. korekcji zebnika x1= .45 
+     Wspol. korekcji kola x2= .68 
+     Wspol. skrocenia  glowy zeba k= .1167 
+     Kat przyporu czolowy na walcu podzialowym ALFAt= 21.054 stop.
+     Kat przyporu czolowy na walcu tocznym ALFAtw= 23.420 stop.
+     Podzialki:
+               -czolowa Pt=.........   8.3065
+               -zasadnicza Pb=......   7.7520
+     Wskaznik zazebienia poskokowy EB= 2.8602 
+     Wskaznik  zazebienia  czolowy EA= 1.4014 
+     Srednica toczna:
+                     -zebnika dw1=  64.5378 mm
+                     -kola    dw2= 255.4625 mm
+     Srednica podzialowa:
+                     -zebnika d1= 63.4572  mm
+                     -kola    d2= 251.1849  mm
+     Srednica  okregow wierzcholkow:
+                     -zebnika da1= 70.41549999999999  mm
+                     -kola    da2= 259.2932  mm
+     Srednic stop:
+                     -zebnika df1= 59.4572  mm
+                     -kola    df2= 248.3349  mm
+     Grubosc  zeba na walcu wierzcholkowym:
+                            -zebnika Sa1=   1.6407 mm
+                            -kola    Sa2=   1.9760mm
+     Grubosc  wzgledna zeba:
+                            -zebnika Sa1/Mn=   0.6563
+                            -kola    Sa2/Mn=   0.7904
+     Rzeczywisty luz miedzy:
+                             da1 i df2=  0.625 mm
+                             da2 i df1=  0.625 mm
+     Zastepcza liczba zebow:
+                            -zebnika Zn1=  28.0039
+                            -kola    Zn2= 110.8489
+     Liczba zebow Zw objetych  pomiarem:
+                            -w zebniku Zw1=   4.0000
+                            -w kole    Zw2=  14.0000
+     Wartosc pomiarowa Wn dla:
+                            -zebnika Wn1=  27.5865 mm
+                            -kola    Wn2= 104.6993 mm
+     Predkosc  obwodowa zazebienia V1= 2.209  m/s
+     Wartosci wspolczynnikow:
+     Rz100= 2.13            Zl*Zr*Zv= .9 
+     Ka=  1.200            Kv=  1.260
+     Kha=  1.200           Khb=  1.175
+     Kh=  2.132            Kf=  2.107
+     Kfa=  1.200           Kfb=  1.161
+     Yfas1=  3.755         Yfas2=  3.770
+
+     Wspolczynniki bezpieczenstwa na naprezenia stykowe dla:
+                   - zebnika Sh1=  1.373
+                   - kola    Sh2=  1.373
+     Wspolczynnik bezpieczenstwa na zlamanie dla:
+                   - zebnika Sf1=  4.848
+                   - kola    Sf2=  4.898
+     Objetosc kol zebatych Vk= 0.0037624 m^3
+
+     Nominalne wartosci sil w zazebieniu:
+                   -obwodowa    Ft= 2760.758  N
+                   -poosiowa    Fa= 950.605  N
+                   -promieniowa Fr= 1195.831  N
+
+
+     Obliczenia wykonal: KACPER DANIELEWSKI
+     Data: 04-01-2025
+     Godz.: 06:40:18

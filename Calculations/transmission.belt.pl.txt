@@ -1,0 +1,37 @@
+     WYNIKI OBLICZEN KONSTRUKCYJNYCH PRZEKLADNI PASOWEJ Z PASAMI KLINOWYMI
+
+               Dane:
+          Moc P=  6.100  kW
+          Predkosc obrotowa N1= 865  obr/min
+          Przelozenie przekladni U=  1.300
+
+               Wyniki obliczen:
+          Przelozenie przekladni U=  1.280
+          Srednica skuteczna kola czynnego D1= 125  mm
+          Srednica skuteczna kola biernego D2= 160  mm
+          Wymagana odleglosc osi kol A=   300.000  mm
+          Rzeczywista odleglosc osi kol Aw=   305.661  mm
+          Kat GAMA=  6.564  stopni
+          Kat ALFA1=173.436  stopni
+          Pas o przekroju B
+          Dlugosc pasa:
+                       - obliczeniowa L1=  1048.698  mm
+                       - znormalizowana L=  1060.000  mm
+          Liczba pasow Z= 6      Predkosc pasa v=  5.661 m/s
+          Stosunek mocy obliczeniowej do mocy zadanej Pz/P=  1.1768
+          Sprawnosc przekladni ETA= 98.469  %
+          Napiecia w ciegnach:
+                              -czynnym Fa=  1087.88  N
+                              -biernym Fb=    10.41  N
+          Sila nacisku pasa na os kola Fn=  1098.23  N
+          Kat dzialania sily Fn: Teta=   3.220  stopni
+          Sila uzyteczna Fu=  1077.47  N
+          Wartosci przyjetych wspolczynnikow:
+          K1=  1.100     Kl=  0.850
+          Kfi= 0.9881     Kt=  1.200
+          MI=  0.500     MIp=  1.536
+          E= 100      E1= 50      K4= 0.400
+
+          Obliczenia wykonal:kacper danielewski
+               DATA:11-10-2024
+               GODZ:14:39:41
